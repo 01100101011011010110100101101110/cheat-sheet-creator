@@ -1,5 +1,5 @@
 #!/bin/bash
-read -p "Insert file name in .txt format: "  fname
+read -p "Enter the name of the file to write to: "  fname
 touch $fname
 
 anscmnd="yes"   #command answer (if you want to record more than 1 command in file)
