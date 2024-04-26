@@ -1,3 +1,4 @@
+#deprecated
 #!/bin/bash
 read -p "Enter the name of the file to write to: "  fname
 touch $fname
