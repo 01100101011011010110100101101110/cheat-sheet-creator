@@ -6,4 +6,4 @@ Here you may need the program cheatsheetcreator.
 Easily get available in the Linux system information about the command you need(available whereis, man, help) and all in one file, in a user-friendly form, which can be printed in the future, so you can always refer to it without problems.
 
 
-pffgjldfksgjdfs
+pffgjld
